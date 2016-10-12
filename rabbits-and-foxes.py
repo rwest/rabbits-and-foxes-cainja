@@ -73,6 +73,7 @@ from matplotlib import pyplot as plt
 
 # In[2]:
 
+print("Speedy!")
 
 R = 400
 F = 200
